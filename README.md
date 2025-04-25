@@ -2,6 +2,14 @@
 Developed an Excel-based HR analytics dashboard to analyze employee data, focusing on key HR metrics like attrition, job satisfaction, tenure, and performance. Used pivot tables, charts, and formulas to uncover trends and deliver actionable insights for data-driven HR decisions.
 #  🧩 Problem Statement 
 This project analyzes employee data to identify patterns in attrition, satisfaction, and performance. Using Excel dashboards and visualizations, it provides actionable HR insights to support better workforce planning and reduce turnover
+# 💡KPIs:
+- Attrition Rate: 16.12%, with R&D (56.12%) and Sales (38.82%) as primary contributors.
+- High-Risk Roles: Laboratory Technicians (26.16%) and Sales Executives (24.05%) drive turnover.
+- Age Group: 25–34 years represent 47.26% of attrition.
+- Education: Bachelor’s degree holders account for 41.77% of turnover.
+- Job Satisfaction: Average 2.63/4, suggesting moderate engagement.
+- Work-Life Balance: Low 1.37/4, a potential turnover factor.
+- Gender: 60% male, 40% female workforce.
 # 🔍 Data Analysis Approach
 ##  1.📥 Data Collection
 The primary dataset was imported into Excel and stored in the sheet titled “Dataset”. 
