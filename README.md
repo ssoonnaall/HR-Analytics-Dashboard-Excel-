@@ -37,7 +37,6 @@ The final output was consolidated into the “HR Analytics Dashboard” sheet, c
 - Interactive charts
 - Filters (slicers) for interactivity
 The dashboard offers HR stakeholders a quick, clear view of workforce health and attrition trends.
-# 🙌 Acknowlegements 
-A special thanks to the YouTube channel Data Tutorials, whose clear and insightful content greatly assisted me in understanding complex concepts and building the dashboard effectively. The tutorials provided practical guidance and step-by-step instructions that proved invaluable throughout the development process.
+
 
 
